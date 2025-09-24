@@ -40,9 +40,9 @@ It was developed as part of my **Microcontrollers and Embedded C (MECE)** course
 ## 📊 Demo
 You can check the hardware setup and working demo included in the repo:
 
-<img src="Setup picture.jpg" name="setup" width="300" />
+<img src="Setup picture.jpg" name="setup" width="500" />
 
-🎥 [Watch the working demo](Working%20video.mp4)
+**🎥 [Watch the working demo](Working%20video.mp4)**
 
 ---
 
